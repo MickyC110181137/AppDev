@@ -1,4 +1,4 @@
-# AppDev
-## Personal infomation
-## My Homework 2023/9/20 create
-yo
+# 天氣APP
+## 利用android studio開發天氣App
+串接Weather API並用android studio設計畫面
+
